@@ -42,6 +42,7 @@ def part2():
             return 2
     
     done = False
+    # Unnecessarily deep nesting...
     while not done:
         done = True
         for x in range(20):
